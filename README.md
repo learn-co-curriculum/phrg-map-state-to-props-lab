@@ -11,3 +11,4 @@ We will be continuing with our users application. Previously, we could update th
 ## Instructions
 
 Use the __mapStateToProps()__ function from the __Redux__ library to properly update the __React__ application with the __Redux__ data.
+<p data-visibility='hidden'>PHRG Provider/MapStateToProps Lab</p>
